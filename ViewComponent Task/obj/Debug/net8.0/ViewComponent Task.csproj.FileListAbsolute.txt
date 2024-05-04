@@ -1,0 +1,30 @@
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\appsettings.Development.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\appsettings.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.staticwebassets.runtime.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.exe
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.deps.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.runtimeconfig.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.dll
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\bin\Debug\net8.0\ViewComponent Task.pdb
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.AssemblyInfoInputs.cache
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.AssemblyInfo.cs
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.csproj.CoreCompileInputs.cache
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.RazorAssemblyInfo.cache
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.RazorAssemblyInfo.cs
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets.build.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets.development.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets\msbuild.ViewComponent Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets\msbuild.build.ViewComponent Task.props
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ViewComponent Task.props
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ViewComponent Task.props
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\scopedcss\bundle\ViewComponent Task.styles.css
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\scopedcss\projectbundle\ViewComponent Task.bundle.scp.css
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.dll
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\refint\ViewComponent Task.dll
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.pdb
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ViewComponent Task.genruntimeconfig.cache
+C:\Disk-DATA\ASP.NET\ViewComponent Task\ViewComponent Task\obj\Debug\net8.0\ref\ViewComponent Task.dll

@@ -1,0 +1,28 @@
+﻿@model List<string>
+
+
+<div class="marquee">
+    <marquee behavior="scroll" direction="left" id="myMarquee" scrollamount="15">
+        @foreach (var item in Model)
+        {
+            <button class="element-marque">@item</button>
+        }
+    </marquee>
+</div>
+
+
+<script>
+
+    const marquee = document.getElementById('myMarquee');
+
+    function pauseMarquee() {
+        marquee.stop();
+    }
+
+    function resumeMarquee() {
+        marquee.start();
+    }
+    marquee.addEventListener('mouseenter', pauseMarquee);
+    marquee.addEventListener('mouseleave', resumeMarquee);
+
+</script>

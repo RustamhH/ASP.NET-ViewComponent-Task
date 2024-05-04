@@ -1,0 +1,272 @@
+a {
+    text-decoration:none
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: Inter, sans-serif;
+    position: fixed;
+    top: 0;
+    height: 53px;
+    z-index: 10000;
+    background-color: #1d1d1f !important;
+    transition: all .5s ease !important;
+    border: none !important;
+}
+
+.header-logo {
+    position: sticky;
+    height: 85px;
+}
+
+.header-navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-navbar a {
+    font-size: 14px;
+    line-height: 15px;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.header-comboboxes {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    color: white;
+    margin-left: 800px;
+}
+
+.contact-number {
+    display: flex;
+    padding: 5px 8px 5px 8px;
+    background: #3963ff;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+
+select {
+    border:none;
+    background-color:transparent;
+    color:white;
+    font-size:14px;
+}
+option {
+    color:black;
+    
+}
+
+
+/*----------------------------------------------------------------------------------------------------------*/
+
+
+
+footer {
+    border-top: 1px groove gray;
+    background-color: #111217;
+    display: flex;
+    justify-content: center;
+}
+
+.info-footer-div {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.first-part {
+    margin-top:30px;
+    display: flex;
+    gap: 100px;
+}
+
+.nav-div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.nav-div nav {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.nav-div p {
+    color: white;
+    font-weight:700;
+    font-size:14px;
+}
+
+.nav-div a {
+    font-size: 14px;
+}
+
+.second-part {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px solid rgba(221, 224, 235, .25);
+    padding-top:10px;
+}
+
+.second-part p {
+    font-size: 12px;
+    line-height: 15px;
+    color: hsla(0, 0%, 100%, .75);
+    margin-right: 36px;
+}
+
+.social-media-part a img{
+    width:30px;
+    height:30px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+
+
+
+.banner {
+    height: 655px;
+    background-image: url("https://itstep.az/dist/images/home/redesign/banner-l@2x.webp");
+    background-size: cover;
+}
+
+
+.banner-content {
+    z-index: 2;
+    position: absolute;
+    top: 200px;
+    left: 9%;
+}
+
+
+
+
+.banner-title {
+    font-family: Inter, sans-serif;
+    color: #1d1d1f;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    margin-bottom: 25px;
+}
+
+.banner-subtitle {
+    width: 50%;
+    font-family: Inter, sans-serif;
+    color: #1d1d1f;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+
+/*-----------------------------------------------------------------------------------------*/
+
+.element-marque {
+    text-transform: uppercase;
+    color: #63636d;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 27px;
+    margin-right: 24px;
+    white-space: nowrap;
+    min-width: auto !important;
+    border:none;
+    background-color:transparent;
+}
+
+
+.marquee {
+    background-color: #111217;
+    padding:20px;
+}
+
+
+/*------------------------------------------------------------------------------------*/
+
+
+
+.about {
+    background-image: url("https://itstep.az/dist/images/academy/blog/man@2x.webp");
+    background-repeat: no-repeat;
+    background-position-x: 1000px;
+    background-color: #68c9ff;
+    width: 100%;
+    height: 655px;
+}
+
+
+.about-content {
+    z-index: 2;
+    position: absolute;
+    top: 200px;
+    left: 9%;
+}
+
+
+
+
+.about-title {
+    font-family: Inter, sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    margin-bottom: 25px;
+}
+
+.about-subtitle {
+    width: 445px;
+    font-family: Inter, sans-serif;
+    color: hsla(0, 0%, 100%, .75);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+
+
+
+
+
+
+/*---------------------------------------------------------------------------------------------------------*/
+
+.contact {
+    height: 655px;    
+}
+
+.contact-content {
+    z-index: 2;
+    position: absolute;
+    top: 200px;
+    left: 9%;
+}
+
+.contact-title {
+    font-family: Inter, sans-serif;
+    color: #1d1d1f;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    margin-bottom: 25px;
+}

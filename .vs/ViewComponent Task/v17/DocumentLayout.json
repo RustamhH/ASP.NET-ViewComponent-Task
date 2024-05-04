@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|c:\\disk-data\\asp.net\\viewcomponent task\\viewcomponent task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|solutionrelative:viewcomponent task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|c:\\disk-data\\asp.net\\viewcomponent task\\viewcomponent task\\views\\shared\\bannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|solutionrelative:viewcomponent task\\views\\shared\\bannerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|c:\\disk-data\\asp.net\\viewcomponent task\\viewcomponent task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6C17F555-0F18-4F71-B646-1CB1A8FCAEC9}|ViewComponent Task\\ViewComponent Task.csproj|solutionrelative:viewcomponent task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewComponent Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewComponent Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T19:19:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannerPartialView.cshtml",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\Views\\Shared\\BannerPartialView.cshtml",
+              "RelativeDocumentMoniker": "ViewComponent Task\\Views\\Shared\\BannerPartialView.cshtml",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\Views\\Shared\\BannerPartialView.cshtml",
+              "RelativeToolTip": "ViewComponent Task\\Views\\Shared\\BannerPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T19:19:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ViewComponent Task\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\ViewComponent Task\\ViewComponent Task\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ViewComponent Task\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAANAAAAAAAAAAAAAqwOQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T10:53:41.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

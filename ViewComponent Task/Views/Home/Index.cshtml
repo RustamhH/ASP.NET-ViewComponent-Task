@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<main>
+    ﻿<section>
+        <partial name="~/Views/Shared/BannerPartialView.cshtml"></partial>
+    </section>
+
+    <section>
+        @await Component.InvokeAsync("Marque")
+    </section>
+
+
+</main>
